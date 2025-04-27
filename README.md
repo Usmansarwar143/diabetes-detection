@@ -55,3 +55,32 @@ Built with the elegance of **Support Vector Machine (SVM)** and the art of **Str
    ```bash
    streamlit run app.py
 4. Open your browser and interact with the Diabetes Prediction tool!
+
+## 💡 Key Features
+
+- **User-Friendly Interface**: Easy for anyone to predict.
+- **Efficient Backend**: Fast, lightweight, and accurate predictions.
+- **Professional Workflow**: Model and Scaler are loaded efficiently.
+- **Scalable Design**: Easy to upgrade with better models in future.
+
+---
+
+## 📦 Project Structure
+
+- **ML_Tool/**
+  - **model.pkl** — Trained SVM model
+  - **scaler.pkl** — Trained StandardScaler
+  - **app.py** — Streamlit web application
+  - **README.md** — Project documentation
+  - **requirements.txt** — (Optional) List of all required Python packages
+
+
+---
+
+## 🏆 Acknowledgements
+
+- **TechnoHacks**: For providing this wonderful opportunity.
+- **Mentor Sandip Gavit**: For mentoring and guiding us.
+- **Streamlit & Scikit-learn Teams**: For the incredible open-source tools.
+
+
